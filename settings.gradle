@@ -1,1 +1,1 @@
-include ':app', ':mlface'
+include ':app', ':mlface', ':mlkit'
